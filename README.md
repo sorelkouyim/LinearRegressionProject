@@ -1,2 +1,2 @@
 # LinearRegressionProject
-#this project is for linear regression
+this project is for linear regression
