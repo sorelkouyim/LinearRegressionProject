@@ -1,3 +1,6 @@
+# This code include supporting function of back subsctitutions
+
+
 # Implement BACK SUBS
 def backsubs(U, b):
 
